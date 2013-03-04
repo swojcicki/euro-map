@@ -1,0 +1,65 @@
+/* line 5, ../../app/assets/stylesheets/home.css.scss */
+body {
+  background: #333;
+  color: #fff;
+  font: 300 100.1% "Helvetica Neue", Helvetica, "Arial Unicode MS", Arial, sans-serif;
+}
+
+/* line 10, ../../app/assets/stylesheets/home.css.scss */
+#holder {
+  height: 480px;
+  left: 50%;
+  margin: -240px 0 0 -320px;
+  position: absolute;
+  top: 50%;
+  width: 640px;
+}
+
+/* line 18, ../../app/assets/stylesheets/home.css.scss */
+#copy {
+  bottom: 0;
+  font: 300 0.7em "Helvetica Neue", Helvetica, "Arial Unicode MS", Arial, sans-serif;
+  position: absolute;
+  right: 1em;
+  text-align: right;
+}
+
+/* line 25, ../../app/assets/stylesheets/home.css.scss */
+#copy a {
+  color: #fff;
+}
+
+/* line 29, ../../app/assets/stylesheets/home.css.scss */
+#canvas {
+  height: 600px;
+  position: absolute;
+  top: 20%;
+  left: 10%
+  /*width: 100%;*/
+}
+
+/* line 35, ../../app/assets/stylesheets/home.css.scss */
+#paper {
+  height: 520px;
+  left: 0;
+  position: relative;
+  top: 0;
+  width: 680px;
+  display: block;
+}
+
+/* line 43, ../../app/assets/stylesheets/home.css.scss */
+.eu {
+  display: none;
+  height: 520px;
+  overflow: auto;
+  position: absolute;
+  left: 685px;
+  top: 5px;
+  width: 300px;
+}
+
+/* line 53, ../../app/assets/stylesheets/home.css.scss */
+h2 {
+  text-align: left;
+}
